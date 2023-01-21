@@ -49,4 +49,4 @@ The main outcomes of the analysis can be viewed below or via the notebook
 ![alt text](https://github.com/nataschaberg/mid_data_classification/blob/master/dashboard_bank_classification.png)
 
 
-you can also find the dashboard [here](https://public.tableau.com/app/profile/natascha2339/viz/ProjectwNatascha_ver3/Dashboard3) 
+you can also find the dashboard [here](https://public.tableau.com/app/profile/mattber93/viz/ProjectwNatascha_ver3_16742951188880/Dashboard3?publish=yes) 
